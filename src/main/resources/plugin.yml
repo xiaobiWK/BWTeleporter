@@ -1,0 +1,7 @@
+name: BWTeleporter
+main: pl.bwteleporter.BWTeleporter
+version: 1.0
+api-version: 1.8
+author: xiaobi_WK
+depend: [BedWars1058]
+description: 起床战争回城卷轴插件 made by xiaobi_WK
